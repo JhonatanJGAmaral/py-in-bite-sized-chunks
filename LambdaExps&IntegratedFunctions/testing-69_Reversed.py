@@ -41,3 +41,4 @@ for n in reversed(range(1, 11)):
 # It is also possible to do this using the range function
 for n in range(10, 0, -1): # o "-1" define o sentido
     print(n)
+
